@@ -3,30 +3,20 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I am a fifth-year BCS student studying in Nova Scotia, Canada. I like to make __cool__ stuff.
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+> There's not a lot on this website because I just made it for a conference workshop!
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Bachelor of Computer Science student and Teaching Assistant
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- Citizenship Award
 
 ## Social Media
 
-- Twitter
-- LinkedIn
-- GitHub
+- Twitter - no
+- LinkedIn - https://www.linkedin.com/in/mljes/
+- GitHub - https://github.com/mljes
