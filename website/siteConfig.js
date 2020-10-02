@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Maria J.', // Title for your website.
     tagline: 'Fifth-year BCS student who would like a job.',
-    profilePhoto: 'img/profile.png',
+    profilePhoto: 'img/profile2.png',
     url: 'https://mljes.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
+        linkedin: 'https://www.linkedin.com/in/mljes/',
         twitter: '',
         github: '',
     },
